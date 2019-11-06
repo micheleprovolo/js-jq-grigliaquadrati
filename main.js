@@ -7,3 +7,7 @@
 $("div.red").click(function() {
     $(this).css("background", "red");
     });
+
+$("div.green").click(function() {
+    $(this).css("background", "green");
+    });
