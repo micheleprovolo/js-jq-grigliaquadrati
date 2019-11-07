@@ -19,3 +19,23 @@
     height: 70px;
 }
 
+.count-container {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    width: 400px;
+}
+
+#count-red {
+    background-color: red;
+    margin: 2%;
+    width: 100px;
+    height: 100px;
+}
+
+#count-green {
+    background-color: green;
+    margin: 2%;
+    width: 100px;
+    height: 100px;
+}
